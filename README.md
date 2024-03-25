@@ -1,19 +1,19 @@
 # Cleanfolio
 
-Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rajshekhar26/cleanfolio-minimal).
+Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/pletumy/cleanfolio-minimal).
 
 ## Preview
 
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://rajshekhar26.github.io/cleanfolio)
+[![Imgur](https://imgur.com/FwDMNEM.gif)](https://pletumy.github.io/cleanfolio)
 
-[Live Demo](https://rajshekhar26.github.io/cleanfolio)
+[Live Demo](https://pletumy.github.io/cleanfolio)
 
 ## Instructions
 
 ### Setup
 
 ```shell
-git clone https://github.com/rajshekhar26/cleanfolio
+git clone https://github.com/pletumy/cleanfolio
 cd cleanfolio
 ```
 
@@ -50,7 +50,7 @@ yarn start
 
 - In the `package.json` file, update:
 
-`"homepage": "https://rajshekhar26.github.io/cleanfolio"`
+`"homepage": "https://pletumy.github.io/cleanfolio"`
 
 to `"homepage": "https://yourusername.github.io"`.
 
